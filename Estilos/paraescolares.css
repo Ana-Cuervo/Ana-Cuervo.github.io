@@ -1,0 +1,20 @@
+#titulo{
+    text-align: center;
+    color: forestgreen;
+    font-family: monospace;
+    font-size: 45px;
+}
+p{
+    text-align: center;
+    font-family: cursive;
+    font-size: 24px;
+}
+ul{
+    float: left;
+}
+li{
+   color: firebrick;
+    font-size: 30px;
+}
+img{
+}

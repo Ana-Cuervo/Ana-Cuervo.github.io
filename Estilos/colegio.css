@@ -1,0 +1,16 @@
+#titulo{
+    text-align: left;
+    font-family: cursive;
+}
+#img{
+    float: right;
+    width: 19%
+}
+.subtitulo{
+    text-align: center;
+    color: firebrick;
+}
+.datos{
+    font-family: cursive;
+      border: double;
+}

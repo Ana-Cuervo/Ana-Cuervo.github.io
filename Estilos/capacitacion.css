@@ -1,0 +1,17 @@
+#titulo{
+    text-align: left;
+    font-family: cursive;
+    display: inline-block;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: forestgreen;
+    font-family: cursive;
+    font-size: 25px;
+}
+p{
+    text-align: justify;
+    font-family: cursive;
+    font-size: 20px;
+}
